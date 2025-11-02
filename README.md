@@ -1,3 +1,6 @@
+---
+title: "README"
+---
 # 这是我的高数笔记。
 使用软件：Obsidian、Gemini CLI、Github。
 
