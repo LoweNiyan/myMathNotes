@@ -2,9 +2,12 @@
 title: "README"
 ---
 # 这是我的高数笔记。
-使用软件：Obsidian、Gemini CLI、Github。
+使用软件：Obsidian、Gemini CLI、Github、Hugo。
 
-一开始纯手写，奈何效率实在是太慢了，后面用ai帮我写的，由我补充。反正笔记这个东西怎么方便怎么来。使用Github来进行多端同步。
+一开始纯手写，奈何效率实在是太慢了，后面用ai帮我写的，由我补充。反正笔记这个东西怎么方便怎么来。~~使用Github来进行多端同步~~。我使用Github Pages和Hugo来部署网站，以便我（以及各位）在手机上查阅
+
+网站仓库[https://github.com/LoweNiyan/myMathNotesWebsite/](https://github.com/LoweNiyan/myMathNotesWebsite/)
+笔记仓库[https://github.com/LoweNiyan/myMathNotes/](https://github.com/LoweNiyan/myMathNotes/)
 
 教材版本**同济高等数学第八版**
 
